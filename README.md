@@ -1,5 +1,12 @@
 # Duhcord Private Companion + plugins
 
+> [!IMPORTANT]
+> **The source has moved to [C4BRA/duhcord](https://github.com/C4BRA/duhcord/tree/main/companion).** The companion and
+> its plugins are developed there, under `companion/`, next to Duhcord and the shared specs. This repository now only
+> hosts the companion and plugin [releases](https://github.com/C4BRA/duhcord-private-plugin/releases), so download
+> links and Replugged's GitHub updates keep working. Please open issues and pull requests in `C4BRA/duhcord`. The code
+> below is a snapshot from before the move and is no longer updated.
+
 Chat in [Duhcord](https://github.com/C4BRA/duhcord)'s Private mode from Vencord / Vesktop, Replugged and BetterDiscord.
 
 - **The companion** is a small native app. It holds your key in the OS key store (Keychain, Credential Manager or
